@@ -17,9 +17,9 @@ This is a simple Library Management System implemented in C++. It allows users t
 ## File Structure
 
 /LibrarySystem
-├── Book.h
-├── Library.h
-├── LibrarySystem.cpp
+      ├── Book.h
+      ├── Library.h
+      ├── LibrarySystem.cpp
 
 
 ## Compilation Instructions
