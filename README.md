@@ -35,7 +35,7 @@ g++ -o LibrarySystem LibrarySystem.cpp
 
 -This command compiles LibrarySystem.cpp and creates an executable named LibrarySystem.
 
-##After successful compilation,
+## After successful compilation,
 you can run the application using the following command
 
 ./LibrarySystem
@@ -44,7 +44,7 @@ you can run the application using the following command
   
 LibrarySystem.exe
 
-#Usage Instructions
+# Usage Instructions
 .Once the application is running, you will see a menu with the following options:
 
   1.Borrow a book
