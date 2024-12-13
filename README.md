@@ -51,10 +51,11 @@ LibrarySystem.exe
   2. **Return a book
   3. **Display available books
   4. **Exit
-.Enter the number corresponding to your choice and follow the prompts.
+    
+Enter the number corresponding to your choice and follow the prompts.
 
-.To borrow or return a book, enter the title of the book when prompted.
+To borrow or return a book, enter the title of the book when prompted.
 
-.To see the available books, select the corresponding option.
+To see the available books, select the corresponding option.
 
-.To exit the application, choose the exit option.
+To exit the application, choose the exit option.
