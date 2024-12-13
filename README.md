@@ -47,10 +47,10 @@ LibrarySystem.exe
 # Usage Instructions
 .Once the application is running, you will see a menu with the following options:
 
-  1.Borrow a book
-  2.Return a book
-  3.Display available books
-  4.Exit
+  1. **Borrow a book
+  2. **Return a book
+  3. **Display available books
+  4. **Exit
 .Enter the number corresponding to your choice and follow the prompts.
 
 .To borrow or return a book, enter the title of the book when prompted.
