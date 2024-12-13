@@ -14,13 +14,6 @@ This is a simple Library Management System implemented in C++. It allows users t
 - A C++ compiler (e.g., g++, clang++)
 - Make sure you have a terminal or command prompt to run the commands.
 
-## File Structure
-
-/LibrarySystem
-      ├── Book.h
-      ├── Library.h
-      ├── LibrarySystem.cpp
-
 
 ## Compilation Instructions
 
